@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdYxhDAUc59Cwqy3qj0hWGlaHh4WIayUyv7Nqk2fMZhqfH+Q9l0Ltbc3wdqvRcEmxP3FbwZYKhP1TifOKxMG7A==",
+  "success": true,
+  "projectFilePath": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj",
+  "expectedPackageFiles": [
+    "/Users/tobiasrothlin/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
+    "/Users/tobiasrothlin/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",
+    "/Users/tobiasrothlin/.nuget/packages/skiasharp.views/2.80.2/skiasharp.views.2.80.2.nupkg.sha512",
+    "/Users/tobiasrothlin/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj": {}
+  },
+  "projects": {
+    "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj",
+        "projectName": "MissionControlCenter",
+        "projectPath": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj",
+        "packagesPath": "/Users/tobiasrothlin/.nuget/packages/",
+        "outputPath": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/tobiasrothlin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
