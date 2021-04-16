@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QdYxhDAUc59Cwqy3qj0hWGlaHh4WIayUyv7Nqk2fMZhqfH+Q9l0Ltbc3wdqvRcEmxP3FbwZYKhP1TifOKxMG7A==",
+  "dgSpecHash": "5lpWDltbYKXEBPKEuzx+91Btj884XKutoymOORddmr+OACFRMhysTzD7BUXvCopNgLNbcbUdaUp7N/ka/h/73w==",
   "success": true,
-  "projectFilePath": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj",
+  "projectFilePath": "/Users/tobiasrothlin/Documents/Semesterarbeit/Groundstation/MissionControlCenter/MissionControlCenter.csproj",
   "expectedPackageFiles": [
     "/Users/tobiasrothlin/.nuget/packages/microcharts/0.9.5.9/microcharts.0.9.5.9.nupkg.sha512",
     "/Users/tobiasrothlin/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",

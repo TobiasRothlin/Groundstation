@@ -72,6 +72,14 @@ namespace MissionControlCenter
             ButtonLaunch.AddTarget(ButtonLaunchEventHandler, UIControlEvent.TouchUpInside);
             View.AddSubview(ButtonLaunch);
 
+            UIButton ButtonTest = new UIButton(UIButtonType.System);
+            ButtonTest.Frame = new CoreGraphics.CGRect(155, 100, 100, 40);
+            ButtonTest.SetTitle("Test", UIControlState.Normal);
+            ButtonTest.BackgroundColor = UIColor.FromRGB(115, 191, 148);
+            ButtonTest.SetTitleColor(UIColor.FromRGB(65, 64, 64), UIControlState.Normal);
+            ButtonTest.AddTarget(ButtonTestEventHandler, UIControlEvent.TouchUpInside);
+            View.AddSubview(ButtonTest);
+
             UIButton ButtonGetStatus = new UIButton(UIButtonType.System);
             ButtonGetStatus.Frame = new CoreGraphics.CGRect(275, 155, 100, 40);
             ButtonGetStatus.SetTitle("Get Status", UIControlState.Normal);
@@ -232,6 +240,11 @@ namespace MissionControlCenter
         public void ButtonStatusEventHandler(object sender, EventArgs e)
         {
             Ranger.getRocketStatus();
+        }
+
+        public void ButtonTestEventHandler(object sender, EventArgs e)
+        {
+            Ranger.test();
         }
 
         public void updateUIValues(RocketTelemetry telemetry)

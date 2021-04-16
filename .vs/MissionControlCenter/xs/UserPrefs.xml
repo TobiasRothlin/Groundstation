@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D7CE58E2-A218-449F-AD6D-B890245DFA80}|Default">
+  <MonoDevelop.Ide.ItemProperties.MissionControlCenter PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008027-000205A611E8002E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MissionControlCenter/ViewController.cs">
+    <Files>
+      <File FileName="MissionControlCenter/ViewController.cs" Line="77" Column="38" />
+      <File FileName="MissionControlCenter/Rocket.cs" Line="36" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MissionControlCenter" expanded="True">
+            <Node name="MissionControlCenter" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

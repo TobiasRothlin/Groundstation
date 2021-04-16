@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj": {}
+    "/Users/tobiasrothlin/Documents/Semesterarbeit/Groundstation/MissionControlCenter/MissionControlCenter.csproj": {}
   },
   "projects": {
-    "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj": {
+    "/Users/tobiasrothlin/Documents/Semesterarbeit/Groundstation/MissionControlCenter/MissionControlCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj",
+        "projectUniqueName": "/Users/tobiasrothlin/Documents/Semesterarbeit/Groundstation/MissionControlCenter/MissionControlCenter.csproj",
         "projectName": "MissionControlCenter",
-        "projectPath": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/MissionControlCenter.csproj",
+        "projectPath": "/Users/tobiasrothlin/Documents/Semesterarbeit/Groundstation/MissionControlCenter/MissionControlCenter.csproj",
         "packagesPath": "/Users/tobiasrothlin/.nuget/packages/",
-        "outputPath": "/Users/tobiasrothlin/Projects/MissionControlCenter/MissionControlCenter/obj/",
+        "outputPath": "/Users/tobiasrothlin/Documents/Semesterarbeit/Groundstation/MissionControlCenter/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

@@ -29,6 +29,12 @@ namespace MissionControlCenter
             startListener();
         }
 
+        public void test()
+        {
+            sendData("T");
+            startListener();
+        }
+
         public void getRocketStatus()
         {
             sendData("S");
